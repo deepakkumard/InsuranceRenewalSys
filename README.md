@@ -3,11 +3,11 @@ Agent Insurance Renewal app helps to reduce the work of the client and to keep t
 
 # Module splitup
 
-Firebase authentication and fetch Realtime database
+Firebase authentication and fetch Realtime database (ajaykumar and Guna)
 
-Provide an Email /SMS alert feature for agent
+Provide an Email /SMS alert feature for agent (deepak kumar)
 
-Generate a renewal notice based on Taxes, agent commission 
+Generate a renewal notice based on Taxes, agent commission (Guna)
 
 Inclusion of payments
 
