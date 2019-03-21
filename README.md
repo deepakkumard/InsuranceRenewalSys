@@ -53,7 +53,12 @@ Completed (80%)
 
 
   Email and SMS notification (Deepak kumar)
-  	The application is built in such a way that it provides an email or SMS alert to the agent when the expiry date of the insurance policy nears. The existing system doesn’t have the facility of sending the notifications via Email or SMS. The system is built in such a way that the alert notification will be sent before a month of the expiry date. The notification will also be sent when the client fails to renew the insurance policy.
+  
+            
+  
+
+    
+    
  
     
 
