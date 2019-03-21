@@ -27,9 +27,9 @@ GUNA S 15CSA82 (711715104303)
 
 Completed (80%)
 
-# modular Descrpition
+# Module Descrpition
 
-    # Firebase database
+    Firebase database (Guna)
  
  The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data. The Realtime database which includes the details such as
 
@@ -50,6 +50,12 @@ Completed (80%)
 •	Ex coverage amount, premium
 
 •	Tax id, amount, percent
+
+
+  Email and SMS notification (Deepak kumar)
+  	The application is built in such a way that it provides an email or SMS alert to the agent when the expiry date of the insurance policy nears. The existing system doesn’t have the facility of sending the notifications via Email or SMS. The system is built in such a way that the alert notification will be sent before a month of the expiry date. The notification will also be sent when the client fails to renew the insurance policy.
+ 
+    
 
 
 
