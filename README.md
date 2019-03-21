@@ -63,6 +63,8 @@ Completed (80%)
      Email and SMS notification (Deepak kumar)
   
   Based on the expiry date refered from client database , it alerts the client through SMS/Email 30 days in advance.In the alert message the insurance amount along with current Gst to be paid .
+   In mainfest to send a SMS message  first we need to get SMS permission and similarly to send a mail we need to get Internet permission.There is format to send SMS message called "SMS SEND ACTION".If we use this format it automatically sends message to that particular person ,this details are retrived from FireBase.If we click OK button the message will be send automatically.Inoder to send a mail we will set a mail ID in URI the same SEND ACTION is used to send a mail.Two intent is passed one is e-mail to whom we send and another one is subject and Body of the Content what we display.If we use START ACTIVITY the SMS and e-mail is send to the client.
+ 
   
 
     
