@@ -26,3 +26,31 @@ GUNA S 15CSA82 (711715104303)
 # Project Status
 
 Completed (80%)
+
+# modular Descrpition
+
+    # Firebase database
+ 
+ The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data. The Realtime database which includes the details such as
+
+•	Policy number
+
+•	Name of insurer
+
+•	Sum insured
+
+•	Mail
+
+•	Vehicle make, Model, Year
+
+•	Vehicle number
+
+•	Issued date, Expiry date
+
+•	Ex coverage amount, premium
+
+•	Tax id, amount, percent
+
+
+
+
