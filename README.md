@@ -80,7 +80,7 @@ The system is built in such a way that it sends the notification based on the ta
 
 # Demo video
 
-<a href="https://imgflip.com/gif/2wo1ki"><img src="https://i.imgflip.com/2wo1ki.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2wo1mq"><img src="https://i.imgflip.com/2wo1mq.gif" title="made at imgflip.com"/></a>
 
 # Pending Task
 
