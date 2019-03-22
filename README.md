@@ -80,13 +80,11 @@ The system is built in such a way that it sends the notification based on the ta
 
 # Demo video
 
- # login
+ # login   # email / sms notification
  
  <a href="https://imgflip.com/gif/2wo220"><img src="https://i.imgflip.com/2wo220.gif" title="made at imgflip.com"/></a>
  
- # email / sms notification
- 
- <a href="https://imgflip.com/gif/2wo2bu"><img src="https://i.imgflip.com/2wo2bu.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2wo2bu"><img src="https://i.imgflip.com/2wo2bu.gif" title="made at imgflip.com"/></a>
 
 # Pending Task
 
