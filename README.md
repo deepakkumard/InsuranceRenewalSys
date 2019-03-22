@@ -96,7 +96,7 @@ The system is built in such a way that it sends the notification based on the ta
 
 Completed (80%)
  
-    
+    https://gifyu.com/image/3g85
 
 
 
