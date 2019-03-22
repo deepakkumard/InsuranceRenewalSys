@@ -78,6 +78,9 @@ There is format to send SMS message called "SMS SEND ACTION".If we use this form
 
 The system is built in such a way that it sends the notification based on the taxes revised by the Government and it calculates and sends the premium amount based on the agent commission. For example, if the percentage of the GST for the insurance renewal is 5% the amount for the renewal will be calculated along with that percentage. 
 
+# Demo video
+
+<a href="https://imgflip.com/gif/2wo1ki"><img src="https://i.imgflip.com/2wo1ki.gif" title="made at imgflip.com"/></a>
 
 # Pending Task
 
