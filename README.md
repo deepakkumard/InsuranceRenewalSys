@@ -80,7 +80,7 @@ The system is built in such a way that it sends the notification based on the ta
 
 # Demo video
 
- <a href="https://gifyu.com/image/3g85"><img src="https://s2.gifyu.com/images/agent-insurance-renewal.gif" alt="agent-insurance-renewal.gif" border="0" /></a>
+<img src="https://s2.gifyu.com/images/agent-insurance-renewal.gif" alt="agent-insurance-renewal.gif" border="0" /></a>
 
 # Pending Task
 
