@@ -80,7 +80,7 @@ The system is built in such a way that it sends the notification based on the ta
 
 # Demo video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/r_RXWAzcceU)
+(https://img.youtube.com/vi/youtu.be/r_RXWAzcceU/0.jpg)](https://www.youtube.com/watch?v=youtu.be/r_RXWAzcceU)
 
 # Pending Task
 
